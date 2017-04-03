@@ -353,14 +353,14 @@
   },
   {
   "id": 32,
-  "name": "Dylan Marriott",
-  "twitter": "@dylan36032",
+  "name": "Lorenzo Patocchi",
+  "twitter": "@MrPatol",
   "birthCountry": "🇨🇭",
-  "year": 2014,
-  "event": "WatchKit Hackathon",
-  "location": "Zurich",
-  "city": "Zurich",
-  "description": "Dylan and I organized the first WatchKit hackhaton ever in Switzerland."
+  "year": 2013,
+  "event": "",
+  "location": "Lamone",
+  "city": "Lugano",
+  "description": "Lorenzo hired me for my first iOS internship."
   },
   {
   "id": 33,
@@ -661,14 +661,14 @@
   },
   {
   "id": 60,
-  "name": "Lorenzo Patocchi",
-  "twitter": "@MrPatol",
+  "name": "Dylan Marriott",
+  "twitter": "@dylan36032",
   "birthCountry": "🇨🇭",
-  "year": 2013,
-  "event": "",
-  "location": "Lamone",
-  "city": "Lugano",
-  "description": "Lorenzo hired me for my first iOS internship."
+  "year": 2014,
+  "event": "WatchKit Hackathon",
+  "location": "Zurich",
+  "city": "Zurich",
+  "description": "Dylan and I organized the first WatchKit hackhaton ever in Switzerland."
   },
   {
   "id": 61,
