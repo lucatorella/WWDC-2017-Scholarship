@@ -9,7 +9,7 @@ My Swift playground realizes the idea of visualizing all the people I met since 
 This Playground was made in a few hours using SceneKit and AppKit. Feel free to give it a try and explore the world! 🌎
 
 ## Technologies
-The Playground targets macOS and uses SceneKit and AppKit. The images were generated in a separate playground using the `UIGRaphicsRnderer` class to create images starting from the JSON file.
+The Playground targets macOS and uses SceneKit and AppKit. The images were generated in a separate playground using the `UIGraphicsRenderer` class to create images starting from the JSON file.
 
 ## Author
 I'm [Patrick Balestra](http://www.patrickbalestra.com).
